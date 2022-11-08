@@ -1,9 +1,11 @@
 # Global-Terrorism-Analysis
 Objectives:
+
 An elaborate exploratory data analysis on the dataset from the Global Terrorism Dataset.
 The analysis comprised of multiple questions which helped in deriving insights about terrorism hot spots and security questions.
 
 Packages Used:
+
 Pandas, Numpy, Matplotlib, Seaborn
 
 
